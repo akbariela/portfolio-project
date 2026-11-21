@@ -27,7 +27,7 @@ class SWCClient:
 	GET_COUNTS_ENDPOINT = "/v0/counts/"
 
 	BULK_FILE_BASE_URL = (
-		"https://raw.githubusercontent.com/263869077"
+		"https://raw.githubusercontent.com/akbariela"
 		+ "/portfolio-project/main/bulk/"
 	)
 
